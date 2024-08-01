@@ -1,5 +1,6 @@
 import streamlit as st
 st.title("This is by python")
+st.titte("Snadeep pate")
 st.header("My name is gautam maurya")
 st.header("Fill the form")
 name=st.text_input("Enter your name")
